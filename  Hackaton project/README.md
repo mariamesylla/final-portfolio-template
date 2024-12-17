@@ -30,22 +30,19 @@ Give a high-level overview of the project purpose:
 
 ### Screenshots
 **Homepage with Credit Card Options**:
-![Homepage](./img/ft0.png)
+![Homepage](assets/homepage_credit_cards.png)
 
 **Application Form**:
-![Application Form](./img/ft2.png)
+![Application Form](assets/application_form.png)
 
 **Validation Errors**:
-![Validation Errors](./img/ft5.png)
+![Validation Errors](assets/validation_errors.png)
 
 **Approval Page**:
-![Approval Page](./img/ft3.png)
+![Approval Page](assets/approval_page.png)
 
 **Denial Page**:
-![Denial Page](./img/ft1.png)
-
-**Shop Page**:
-![Denial Page](./img/ft5.png)
+![Denial Page](assets/denial_page.png)
 
 ---
 

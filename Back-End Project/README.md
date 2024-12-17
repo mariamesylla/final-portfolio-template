@@ -1,33 +1,54 @@
 ## Project #1
-Give a high-level overview of the project purpose
-- Questions to consider:
-    - What are the users?
-    - What job does it form for them?
-    - What inspired you to make it?
-    - What features are the most important?
-- STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
+**Task Management API**
+
+Give a high-level overview of the project purpose:
+- **What are the users?** 
+  - Developers or organizations needing a secure backend for task management.
+- **What job does it perform for them?** 
+  - Allows users to securely create, store, and manage tasks using encrypted data storage and secure authentication.
+- **What inspired you to make it?** 
+  - The inspiration came from the need to build secure backend systems that implement encryption and access control following best practices.
+- **What features are the most important?**
+  - AES256-based encryption for sensitive task data.
+  - Token-based authentication (JWT) for secure access.
+  - RESTful API endpoints for CRUD operations on tasks.
+  - User creation and authentication using basic auth.
+
+### STAR Interview Questions:
+- **(Situation):**
+  - The project is a backend API that manages tasks securely with encryption and token authentication. I created this program to showcase secure API development and encryption.
+- **(Task):**
+  - The design required creating RESTful endpoints for tasks, implementing encryption for sensitive data, and ensuring secure access using JWT.
+- **(Action):**
+  - Implemented AES256 encryption for task storage using `crypto`.
+  - Developed user authentication using basic auth and JWT middleware.
+  - Protected all task-related endpoints with token-based authorization.
+- **(Result):**
+  - The final application provides a secure task management API where tasks are encrypted at rest and can only be accessed by authenticated users.
+
+### Screenshots
+**Task Creation Example**:
+![Task Creation](./img/bk1.png)
+[Task Creation](./img/bk2.png)
+
+
+**Encrypted Task in Database**:
+![Encrypted Task](./img/bk3.png)
+[Task Creation](./img/bk4.png)
+
+---
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- **Node.js** v16.x
+- **Express.js** v4.x
+- **crypto**: AES256-based encryption/decryption.
+- **jsonwebtoken** v8.x: For token-based authentication.
+- **bcrypt** v5.x: For password hashing.
+- **dotenv**: To manage environment variables.
+- **cURL/Postman**: For API testing.
+- **OpenSSL**: For generating encryption keys.
 
-## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### Dependencies
+- Installed via `package.json`. Use:
+  ```bash
+  npm install
