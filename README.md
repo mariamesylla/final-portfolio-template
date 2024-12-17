@@ -16,10 +16,8 @@ Here are the links to each section of my portfolio:
 
 - [Backend Project](https://github.com/mariamesylla/task-management)
 - [Deployment Project](https://github.com/mariamesylla/note-management-app)
-- [Front End Project]([https://github.com/mariamesylla/credit-card-app](https://github.com/mariamesylla/credit-card-app))
-- [Hackathon](
-    - https://github.com/mariamesylla/controls-manager
-    )
+- [Front End Project](https://github.com/mariamesylla/credit-card-app)
+- [Hackathon](https://github.com/mariamesylla/controls-manager)
 
 ## Portfolio Introduction
 Hello! 👋 , my name is Magnan Sylla! I am a Full Stack Software Engineer Apprentice at American Express. Coding has  always been something I was interested in. When I was graduating for my Associate degree in Computer Science (2023) , I decided to start my first boot camp, and it has been quite the journey ever since! I love coding because every day there is something new to learn, a new framework to master, a new syntax to learn, and a new way of writing an algorithm. Plus, coding is all around us, it influences the world around us and helps to make the world a better place.
