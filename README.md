@@ -14,13 +14,13 @@ During my time at American Express, I delivered value not only through improveme
 
 Here are the links to each section of my portfolio:
 
-- [Backend Project](https://isolate.menlosecurity.com/https://github.com/mariamesylla/task-management)
-- [Deployment Project](https://isolate.menlosecurity.com/https://github.com/mariamesylla/note-management-app)
+- [Backend Project](https://github.com/mariamesylla/task-management)
+- [Deployment Project](https://github.com/mariamesylla/note-management-app)
 - [Front End Project](
-    -https://isolate.menlosecurity.com/https://github.com/mariamesylla/credit-card-app)
+    -https://github.com/mariamesylla/credit-card-app)
 - [Hackathon](
-    - https://isolate.menlosecurity.com/https://github.com/mariamesylla/Inventory
-    -https://isolate.menlosecurity.com/https://github.com/mariamesylla/controls-manager
+    - https://github.com/mariamesylla/Inventory
+    - https://github.com/mariamesylla/controls-manager
     )
 
 ## Portfolio Introduction
