@@ -16,10 +16,8 @@ Here are the links to each section of my portfolio:
 
 - [Backend Project](https://github.com/mariamesylla/task-management)
 - [Deployment Project](https://github.com/mariamesylla/note-management-app)
-- [Front End Project](
-    -https://github.com/mariamesylla/credit-card-app)
+- [Front End Project]([https://github.com/mariamesylla/credit-card-app](https://github.com/mariamesylla/credit-card-app))
 - [Hackathon](
-    - https://github.com/mariamesylla/Inventory
     - https://github.com/mariamesylla/controls-manager
     )
 
