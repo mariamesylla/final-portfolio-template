@@ -1,61 +1,52 @@
-## Project #4
+## Project #3
 
-**Credit Card Application Web App**
+**Security Controls Manager**
 
 Give a high-level overview of the project purpose:
 - **What are the users?**
-  - Consumers applying for credit cards or seeking upgrades.
+  - Security teams and IT professionals who need to document and manage security controls.
 - **What job does it perform for them?**
-  - Allows users to apply for credit cards via a dynamic and interactive web application.
+  - Provides functionality to add, edit, delete, and view security controls along with their descriptions and artifacts.
 - **What inspired you to make it?**
-  - The project was inspired by a real-world use case where US consumers apply for credit cards. It was created as practice to understand credit card application processes before joining a similar team.
+  - The need for an organized system to manage and document security controls efficiently.
 - **What features are the most important?**
-  - Homepage with credit card options and an “Apply” button.
-  - Application form with required fields, validations, and dynamic decision display.
-  - Validation errors for missing or incorrect inputs.
-  - Responsive design to ensure usability across devices.
+  - CRUD operations for managing security controls.
+  - Persistent storage using **LocalStorage** to ensure data remains available across browser sessions.
+  - State management using **Redux**.
+  - Responsive design with **Tailwind CSS**.
 
 ### STAR Interview Questions:
 - **(Situation):**
-  - A credit card application web app was required to simulate real-world workflows of applying for a credit card.
+  - The Security Controls Manager was created to streamline the process of managing security controls by enabling CRUD operations with persistent storage.
 - **(Task):**
-  - The goal was to design an application with features such as form submission, validation, decision-making logic, and responsive design.
+  - Design and build a frontend application that allows users to manage security controls efficiently, ensuring data persists even after closing the browser.
 - **(Action):**
-  - Developed a user-friendly homepage and form using **React**.
-  - Implemented field validations to ensure required fields are completed.
-  - Designed dynamic decision pages based on user input (approval/denial messages).
-  - Applied responsive design with **Tailwind CSS** for smooth cross-device experience.
+  - Developed the application using **React** for the frontend.
+  - Managed state using **Redux**, integrating **redux-persist** to sync data with **LocalStorage**.
+  - Styled the application with **Tailwind CSS** for a modern and responsive design.
 - **(Result):**
-  - Delivered an interactive credit card application app that includes form validations, decision logic, and a responsive design.
+  - Delivered a fully functional Security Controls Manager that supports adding, editing, deleting, and viewing controls with persistent storage.
 
 ### Screenshots
-**Homepage with Credit Card Options**:
-![Homepage](assets/homepage_credit_cards.png)
+**Main App Interface**:
+![Main App Interface](./img/elec4.png)
+![Main App Interface](./img/elec2.png)
 
-**Application Form**:
-![Application Form](assets/application_form.png)
+**Control Editing Interface**:
+![Control Editing](./img/elec3.png)
+![Control Editing](./img/elec1.png)
 
-**Validation Errors**:
-![Validation Errors](assets/validation_errors.png)
-
-**Approval Page**:
-![Approval Page](assets/approval_page.png)
-
-**Denial Page**:
-![Denial Page](assets/denial_page.png)
 
 ---
 
 ## Technologies
-
-- **React**: For building the dynamic and interactive user interface.
+- **React**: For building the frontend interface.
+- **Redux**: For state management.
+- **redux-persist**: For syncing Redux state with LocalStorage.
 - **Tailwind CSS**: For responsive and modern styling.
-- **State Management**: React hooks (`useState`) for managing form states.
-- **Node.js**: Backend environment for local development (if needed).
-- **LocalStorage**: For storing temporary data (e.g., application state).
+- **LocalStorage**: For persistent data storage across browser sessions.
 
 ### Dependencies
-
 - Installed via `package.json`. Run:
   ```bash
   npm install

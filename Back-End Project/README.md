@@ -29,12 +29,12 @@ Give a high-level overview of the project purpose:
 ### Screenshots
 **Task Creation Example**:
 ![Task Creation](./img/bk1.png)
-[Task Creation](./img/bk2.png)
+![Task Creation](./img/bk2.png)
 
 
 **Encrypted Task in Database**:
 ![Encrypted Task](./img/bk3.png)
-[Task Creation](./img/bk4.png)
+![Task Creation](./img/bk4.png)
 
 ---
 
