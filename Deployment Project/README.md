@@ -53,3 +53,25 @@ Give a high-level overview of the project purpose:
 - Installed via `package.json`. Run:
   ```bash
   npm install
+
+### Competencies
+
+### JF 2.3: Can develop effective user interfaces
+- **Situation**: The project required an intuitive interface for users to manage and organize their notes.
+- **Actions Taken**:
+  - Built a clean and flexible UI with **React** and **Bootstrap**.
+  - Integrated **Editor.js** for rich-text editing features.
+- **Results**:
+  - Delivered a user-friendly and feature-rich notes management application.
+- **Connection**: Highlights my ability to design and develop effective user interfaces that align with user needs.
+
+### JF 3.5: Can apply algorithms, logic, and data structures
+- **Situation**: The app required optimized handling of note categorization and retrieval.
+- **Actions Taken**:
+  - Applied efficient logic for categorizing notes into personal and work sections.
+  - Implemented search functionality to allow users to quickly retrieve notes.
+- **Results**:
+  - Created a seamless experience for note organization and retrieval.
+- **Connection**: Demonstrates my ability to apply algorithms and logical thinking for data handling.
+
+---

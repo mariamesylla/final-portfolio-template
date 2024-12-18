@@ -52,3 +52,23 @@ Give a high-level overview of the project purpose:
 - Installed via `package.json`. Use:
   ```bash
   npm install
+
+
+### Competencies
+
+### JF 3.6: Can implement a RESTful API
+- **Situation**: A task management API was needed to provide CRUD functionality for tasks.
+- **Actions Taken**:
+  - Built a RESTful API using **Node.js** and **Express**.
+  - Ensured secure and encrypted handling of task data.
+- **Results**:
+  - Delivered a functional API that enables task creation, retrieval, updating, and deletion.
+- **Connection**: Demonstrates my ability to implement RESTful APIs that meet functional requirements.
+
+### JF 3.8: Can encrypt sensitive data via hashing
+- **Situation**: Task instructions needed secure handling and storage.
+- **Actions Taken**:
+  - Used **crypto** and **SHA256** to encrypt sensitive task instructions.
+- **Results**:
+  - Ensured secure storage and retrieval of sensitive task data.
+- **Connection**: Highlights my understanding of data encryption to secure sensitive information.

@@ -62,3 +62,23 @@ Give a high-level overview of the project purpose:
 - Installed via `package.json`. Run:
   ```bash
   npm install
+
+### Competencies
+
+### JF 2.7: Effectively manages state for complex User Interfaces
+- **Situation**: The credit card application required managing complex form inputs and validation states.
+- **Actions Taken**:
+  - Used **React hooks** to manage form states.
+  - Implemented input validation logic to ensure accurate submissions.
+- **Results**:
+  - Delivered a robust form experience with dynamic validation and state management.
+- **Connection**: Demonstrates my ability to handle complex UI states effectively.
+
+### JF 4.4: Can interpret and implement a given design while remaining compliant with security and maintainability requirements
+- **Situation**: The project needed a secure and maintainable application form for credit card applications.
+- **Actions Taken**:
+  - Followed best practices for validation and form security.
+  - Ensured the app's maintainability by applying modular design principles.
+- **Results**:
+  - Delivered a functional, secure, and maintainable application for credit card submission.
+- **Connection**: Highlights my ability to interpret designs and prioritize security and maintainability.

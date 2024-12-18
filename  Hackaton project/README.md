@@ -50,3 +50,51 @@ Give a high-level overview of the project purpose:
 - Installed via `package.json`. Run:
   ```bash
   npm install
+
+## Competencies
+
+### JF 2.5: Can implement a responsive User Interface
+
+- **Situation**: The project required a responsive and user-friendly interface for managing security controls.
+- **Actions Taken**:
+  - Used Tailwind CSS to ensure the application layout adjusts seamlessly across devices.
+  - Implemented dynamic and interactive UI components using React.
+- **Results**:
+  - Delivered a fully responsive interface that provides a smooth user experience across all screen sizes.
+- **Connection**: This competency highlights my ability to create responsive and intuitive user interfaces.
+
+---
+
+### JF 3.4: Can create a logical and maintainable codebase
+
+- **Situation**: The project needed clean and maintainable code to support CRUD operations and state management.
+- **Actions Taken**:
+  - Applied modular design principles in building React components.
+  - Organized state management logic using Redux for clarity and maintainability.
+- **Results**:
+  - Ensured a well-structured and maintainable codebase that facilitates easy updates and scalability.
+- **Connection**: Demonstrates my ability to write clean, logical, and maintainable code.
+
+---
+
+### JF 4.6: Can test code and analyze results to correct errors found using unit testing
+
+- **Situation**: Ensuring the reliability of components and functions was essential for this project.
+- **Actions Taken**:
+  - Wrote unit tests for critical components using tools like Jest.
+  - Debugged and refined code based on test results to address any issues.
+- **Results**:
+  - Delivered a reliable and error-free application with tested functionality.
+- **Connection**: This competency showcases my ability to write and implement unit tests to ensure code reliability.
+
+---
+
+### JF 5.5: Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programs to identify and resolve issues
+
+- **Situation**: Debugging and resolving errors were crucial to ensuring the app's functionality.
+- **Actions Taken**:
+  - Applied debugging techniques to identify issues in state management and UI components.
+  - Used Chrome DevTools and other debugging tools to streamline the debugging process.
+- **Results**:
+  - Successfully identified and resolved issues, delivering a smooth and functional application.
+- **Connection**: Highlights my structured approach to debugging and problem-solving.
